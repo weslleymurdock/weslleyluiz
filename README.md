@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 he/his
 
 <a href="https://github.com/weslleyluiz/github-readme-stats">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jpvendramini&theme=dark"></img>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=weslleyluiz&theme=dark"></img>
 </a>
 <a href="https://github.com/weslleyluiz/github-readme-stats">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvendramini&theme=dark&layout=compact"></img>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyluiz&theme=dark&layout=compact"></img>
 </a>
