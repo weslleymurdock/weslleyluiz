@@ -1,10 +1,7 @@
-### Hi there 👋
-
+### Hello there 👋
 <!--
 **weslleyluiz/weslleyluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working with .net
+- 😄 he/his
+
+<a href="https://github.com/weslleyluiz/github-readme-stats">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jpvendramini&theme=dark"></img>
+</a>
+<a href="https://github.com/weslleyluiz/github-readme-stats">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvendramini&theme=dark&layout=compact"></img>
+</a>
